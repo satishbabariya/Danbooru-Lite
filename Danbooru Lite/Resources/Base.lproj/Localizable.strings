@@ -1,0 +1,96 @@
+/*
+ Strings.strings
+ Danbooru Lite
+ 
+ Created by Satish on 28/01/18.
+ Copyright © 2018 Satish Babariya. All rights reserved.
+ */
+
+layout = "Layout";
+
+thumbnailquality = "Thumbnail Quality";
+cancel = "Cancel";
+high = "High";
+low = "Low";
+Flickr = "Flickr";
+Danbooru = "Danbooru";
+Gelbooru = "Gelbooru";
+Yandere = "Yande.re";
+Kochan = "Kochan";
+setupurl = "Setup URL";
+ok = "OK";
+
+nocontent = "No Content";
+reqyestwassucess = "Request was successful";
+badrequest = "Bad Request";
+thegivanparamcouldnot = "The given parameters could not be parsed";
+unauthorized = "Unauthorized";
+authendicationfailed = "Authentication failed";
+forbidden = "Forbidden";
+acessdenid  = "Access denied";
+notfound = "Not Found";
+gone = "Gone";
+paginationliit = "Pagination limit";
+invalidrecord = "Invalid Record";
+recordcouldnot = "Record could not be saved";
+locked = "Locked";
+resourceislocke = "The resource is locked and cannot be modified";
+alreadyexist = "Already Exists";
+resourcealreadyexist = "Resource already exists";
+invalidparam = "Invalid Parameters";
+thgivenparamerer = "The given parameters were invalid";
+userthrottled = "User Throttled";
+useristhrottled = "User is throttled, try again later";
+internalservererror = "Internal Server Error";
+adatabasetimeout = "A database timeout, or some unknown error occurred on the server";
+serviceunailable = "Service Unavailable";
+servercannot = "Server cannot currently handle the request, try again later (returned during downbooru)";
+
+
+// MARK: - Error Messages
+
+nointernet = "No Internet Connection";
+decodererror = "Internal error, Please try again after sometime.";
+urlnotvalid = "Url is not valid.";
+serverError = "Server Error";
+
+// MARK: - Navigation Titels
+home = "Danbooru";
+service = "Service Setup";
+settings = "Settings";
+
+//Settings
+services = "Services";
+application = "Application";
+appname = "Danbooru Lite";
+servicesettings = "Services Settings";
+servicesettingsdetails = "Set imageboard service settings";
+themes = "Themes";
+themesdetails = "Set number of images in one request.";
+noofimages = "No. of Images in one Page";
+noofimagesdetails = "Set number of images in one request.";
+imagesinrow = "No. of Images in one Row";
+imagesinrowdetails = "Set number of images in one single row.";
+clearcache = "Clear Image Cache";
+clearcachedetails = "Remove cached images form device.";
+about = "About Danbooru Lite";
+privacy = "Privacy Policy";
+
+// MARK: - Other
+domaintext = "https://";
+domaindetails = "e.g. https://example.com";
+domainplaceholder = "Service URL";
+next = "Next";
+skip = "Skip";
+
+textbulletintitle = "Number of Images in one Request";
+textbulletindescription = "This change will reflact immediately";
+textbulletinplaceholder = "Enter Number";
+change = "Change";
+
+textbulletintitle2 = "Number of Images in one Row";
+textbulletindescription2 = "In Home screen this change will effect after next app launch. ";
+
+selectcolor = "Select Theme Color";
+texterror = "You must enter some number to continue.";
+

@@ -1,4 +1,3 @@
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/satishbabariya/Danbooru-Lite/master/Assets/logo.png" height="200" alt="Core">
     <br>
@@ -9,6 +8,7 @@
     <a href="http://swift.org/">
         <img src="https://img.shields.io/badge/platforms-iPhone%20%20iPad-f48041.svg?style=for-the-badge" alt="Swift">
     </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fsatishbabariya%2FDanbooru-Lite?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsatishbabariya%2FDanbooru-Lite.svg?type=shield"/></a>
 </p>
 
 # Danbooru-Lite 
@@ -23,3 +23,7 @@ Danbooru Lite allows you to connect to a various photo hosting services and brow
 |![Screenshots1](Assets/01.jpg)|![Screenshots1](Assets/02.jpg)|![Screenshots1](Assets/03.jpg)|![Screenshots1](Assets/04.jpg)|
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsatishbabariya%2FDanbooru-Lite.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsatishbabariya%2FDanbooru-Lite?ref=badge_large)

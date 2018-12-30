@@ -8,7 +8,6 @@
     <a href="http://swift.org/">
         <img src="https://img.shields.io/badge/platforms-iPhone%20%20iPad-f48041.svg?style=for-the-badge" alt="Swift">
     </a>
-<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fsatishbabariya%2FDanbooru-Lite?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsatishbabariya%2FDanbooru-Lite.svg?type=shield"/></a>
 </p>
 
 # Danbooru-Lite 
